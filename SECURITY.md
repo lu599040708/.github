@@ -10,3 +10,4 @@ We offer a bug bounty of up to **$50,000 USD** worth of DFI for [DeFiCh/ain](htt
 vulnerabilities. You must be able to provide significant information for reproducing and fixing the issue.
 
 Only [official releases](https://github.com/DeFiCh/ain/releases), master branch development code are not included.
+tell me why
